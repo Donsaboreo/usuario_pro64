@@ -1,0 +1,6 @@
+import random
+
+class persona:
+    def __init__(self,persona):
+        
+    

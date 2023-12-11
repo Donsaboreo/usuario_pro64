@@ -1,0 +1,26 @@
+html{
+    background-image: url("../img/logo_fondo.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+}
+body
+    width: 85%;{
+    background: white;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+    height: 100%;
+    /*La imagen mantiene su relacion de aspecto
+    y llena
+
+#gallery{
+    width: 100%;
+    /*Coloca el maximo ancho a un elemento*/
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    /*te proporciona
+
+
